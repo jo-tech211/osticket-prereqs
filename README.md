@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Item 1 Install and enable ISS (internet information services) on windows with CGI. This action enables the installation of the web server. 
 - Item 2
 - Item 3
 - Item 4
