@@ -65,7 +65,8 @@ Install MySQL 5.5.62 with: Typical Setup, then standard configuration, then appl
 <br />
 
 <p>
-<img src="https://imgur.com/Y662nUV" alt=/>
+<img src="https://i.imgur.com/Y662nUV.png" height="80%" width="80%" alt=/>  
+  
 </p>
 <p>
 We will open IIS as Administrator.
@@ -75,15 +76,41 @@ Restart IIS (Stop and Start the server).
 <br />
 
 <p>
-<img src="https://imgur.com/XunS4np" height="80%" width="80%" alt=/>
-<img src="https://imgur.com/63te02v" height="80%" width="80%" alt=/>
+<img src="https://i.imgur.com/bO1OGqH.png" height="80%" width="80%" alt=/>  
+<img src="https://i.imgur.com/63te02v.png" height="80%" width="80%" alt=/>
+
 </p>
 <p>
 From the osTicket-Installation-Files folder:
 
 To install osTicket we must now extract osTicket-v1.15.8.zip.
 Copy the upload folder to C:\inetpub\wwwroot.
-Rename the upload folder to osTicket.
+Rename the upload folder to osTicket. 🚀
 Restart IIS again.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/XunS4np.png"80%" width="80%" alt=/>  
+<img src="https://i.imgur.com/pWkUiLR.png" height="80%" width="80%" alt=/>
+
+</p>
+<p>
+
+We will now set Up Configurations for mySQL and osTicket
+Rename the sample configuration file:
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+Update permissions for ost-config.php:
+Disable inheritance, remove all existing permissions
+<p>
+<img src="https://i.imgur.com/1pDKKEv.png"80%" width="80%" alt=/>  
+<img src="https://i.imgur.com/N5PdxII.png" height="80%" width="80%" alt=/>
+
+</p>
+<p>
+Complete the osTicket Setup in the Browser
+Open the osTicket setup page in your browser.
+Provide the following:
+Helpdesk name.
+Default email for customer queries.
+
