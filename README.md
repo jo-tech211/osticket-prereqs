@@ -44,17 +44,17 @@ Go to World Wide Web Services, Application Development Features, and enable the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/fy1PTju.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/LK1agin.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/QF8clgs" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/Y662nUV" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/QQp3lL0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/jaDUQbX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/fy1PTju.png" height="80%" width="80%" alt=/>
+<img src="https://i.imgur.com/LK1agin.png" height="80%" width="80%" alt=/>
+<img src="https://imgur.com/QF8clgs" height="80%" width="80%" alt=/>
+<img src="https://imgur.com/Y662nUV" height="80%" width="80%" alt=/>
+<img src="https://i.imgur.com/QQp3lL0.png" height="80%" width="80%" alt=/>
+<img src="https://i.imgur.com/jaDUQbX.png" height="80%" width="80%" alt=/>  
 </p>
 <p>
 From the osTicket-Installation-Files folder:
 
-Install PHP Manager for IIS
+  Install PHP Manager for IIS
 Install the Rewrite Module 
 Create the directory: C:\PHP.
 Extract the PHP 7.3.8 into C:\PHP.
@@ -65,17 +65,25 @@ Install MySQL 5.5.62 with: Typical Setup, then standard configuration, then appl
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Y662nUV" alt=/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We will open IIS as Administrator.
+Register PHP in IIS (PHP Manager → Register New PHP Version → C:\PHP\php-cgi.exe).
+Restart IIS (Stop and Start the server).
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/XunS4np" height="80%" width="80%" alt=/>
+<img src="https://imgur.com/63te02v" height="80%" width="80%" alt=/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the osTicket-Installation-Files folder:
+
+To install osTicket we must now extract osTicket-v1.15.8.zip.
+Copy the upload folder to C:\inetpub\wwwroot.
+Rename the upload folder to osTicket.
+Restart IIS again.
 </p>
 <br />
