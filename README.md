@@ -31,6 +31,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 5- Setting up configurations on osTicket
 
 <h2>Installation Steps</h2>
+![picture 1](https://github.com/user-attachments/assets/fc40e2da-1075-4f95-a2df-b30500af7098)
+![picture 1](https://github.com/user-attachments/assets/f39e9905-dec4-42cd-b64c-0401973800f4)
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
