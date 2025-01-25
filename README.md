@@ -99,9 +99,11 @@ Restart IIS again.
 <p>
 
 We will now set Up Configurations for mySQL and osTicket
+
 Rename the sample configuration file:
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
 Update permissions for ost-config.php:
 Disable inheritance, remove all existing permissions
 <p>
@@ -112,11 +114,10 @@ Disable inheritance, remove all existing permissions
 
 </p>
 <p>
-Complete the osTicket Setup in the Browser
+Complete the osTicket Setup in the Browser.
+
 Open the osTicket setup page in your browser.
-Provide the following:
-Helpdesk name.
-Default email for customer queries.👌
+Provide the following: Helpdesk name, default email for customer queries.👌
 
 Item 6:
 
@@ -129,6 +130,7 @@ Return to the browser setup and input:
 Database Name: osTicket
 
 You are now able to access the admin panel! 😊🎊
+osTicket system complete! 🚀
 
 <img src="https://i.imgur.com/PJI1207.png" alt=/>
 
