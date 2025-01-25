@@ -23,26 +23,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1 Install and enable ISS (internet information services) on windows with CGI. This action enables the installation of the web server. 
+- Item 1 Install and enable ISS (internet information services) on windows with CGI. This action enables the installation of the web server. 😊
 - Item 2- From the osticket installation folder we will install:
 - PHP manager for ISS, rewrite module, visual c++ redistributable, and My SQL 5.5.62 🖥️
 - Item 3- Configure ISS 
 - Item 4- installing osTicket
 - Item 5- Setting up configurations on osTicket
+- Item 6- Creating the database and completing osTicket!👍
 
 <h2>Installation Steps</h2>
 
-
+Item 1:
 <p>
 <img src="https://i.imgur.com/ZgRFUve.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
 Install and enable IIS (Internet Information Services) on Windows.
 Go to World Wide Web Services, Application Development Features, and enable the CGI feature.
 
 </p>
 <br />
-
+Item 2:
 <p>
 <img src="https://i.imgur.com/fy1PTju.png" height="80%" width="80%" alt=/>
 <img src="https://i.imgur.com/LK1agin.png" height="80%" width="80%" alt=/>
@@ -63,7 +65,7 @@ Install MySQL 5.5.62 with: Typical Setup, then standard configuration, then appl
 
 </p>
 <br />
-
+Item 3:
 <p>
 <img src="https://i.imgur.com/Y662nUV.png" height="80%" width="80%" alt=/>  
   
@@ -74,7 +76,7 @@ Register PHP in IIS (PHP Manager → Register New PHP Version → C:\PHP\php-cgi
 Restart IIS (Stop and Start the server).
 </p>
 <br />
-
+Item 4:
 <p>
 <img src="https://i.imgur.com/bO1OGqH.png" height="80%" width="80%" alt=/>  
 <img src="https://i.imgur.com/63te02v.png" height="80%" width="80%" alt=/>
@@ -103,8 +105,10 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 Update permissions for ost-config.php:
 Disable inheritance, remove all existing permissions
 <p>
-<img src="https://i.imgur.com/1pDKKEv.png"80%" width="80%" alt=/>  
-<img src="https://i.imgur.com/N5PdxII.png" height="80%" width="80%" alt=/>
+
+  Item 5: 
+
+  <img src="https://i.imgur.com/N5PdxII.png" height="80%" width="80%" alt=/>
 
 </p>
 <p>
@@ -112,5 +116,19 @@ Complete the osTicket Setup in the Browser
 Open the osTicket setup page in your browser.
 Provide the following:
 Helpdesk name.
-Default email for customer queries.
+Default email for customer queries.👌
+
+Item 6:
+
+<img src="https://i.imgur.com/ZyRfSaw.png" alt=/>
+
+Install and open HeidiSQL.
+Create a new session (Username: root, Password: root) 
+Connect and create a new database named osTicket.
+Return to the browser setup and input:
+Database Name: osTicket
+
+You are now able to access the admin panel! 😊🎊
+
+<img src="https://i.imgur.com/PJI1207.png" alt=/>
 
