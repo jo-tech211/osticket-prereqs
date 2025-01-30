@@ -19,9 +19,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1 Install and enable ISS (internet information services) on windows with CGI. This action enables the installation of the web server. 😊
-- Item 2- From the osticket installation folder we will install:
-- PHP manager for ISS, rewrite module, visual c++ redistributable, and My SQL 5.5.62 🖥️
+- Item 1- Install and enable ISS (internet information services) on windows with CGI. This action enables the installation of the web server. 😊
+- Item 2- From the osticket installation folder we will install, PHP manager for ISS, rewrite module, visual c++ redistributable, and My SQL 5.5.62 🖥️
+
+# Installation 🚀 
+
 - Item 3- Configure ISS 
 - Item 4- installing osTicket
 - Item 5- Setting up configurations on osTicket
