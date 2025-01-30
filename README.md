@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 Item 1:
 <p>
-<img src="https://i.imgur.com/ZgRFUve.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZgRFUve.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -44,12 +44,12 @@ Go to World Wide Web Services, Application Development Features, and enable the 
 <br />
 Item 2:
 <p>
-<img src="https://i.imgur.com/fy1PTju.png" height="80%" width="80%" alt=/>
-<img src="https://i.imgur.com/LK1agin.png" height="80%" width="80%" alt=/>
-<img src="https://imgur.com/QF8clgs" height="80%" width="80%" alt=/>
-<img src="https://imgur.com/Y662nUV" height="80%" width="80%" alt=/>
-<img src="https://i.imgur.com/QQp3lL0.png" height="80%" width="80%" alt=/>
-<img src="https://i.imgur.com/jaDUQbX.png" height="80%" width="80%" alt=/>  
+<img src="https://i.imgur.com/fy1PTju.png" height="60%" width="60%" alt=/>
+<img src="https://i.imgur.com/LK1agin.png" height="60%" width="60%" alt=/>
+<img src="https://imgur.com/QF8clgs" height="60%" width="60%" alt=/>
+<img src="https://imgur.com/Y662nUV" height="60%" width="60%" alt=/>
+<img src="https://i.imgur.com/QQp3lL0.png" height="60%" width="60%" alt=/>
+<img src="https://i.imgur.com/jaDUQbX.png" height="80%" width="60%" alt=/>  
 </p>
 <p>
 From the osTicket-Installation-Files folder:
@@ -76,8 +76,8 @@ Restart IIS (Stop and Start the server).
 <br />
 Item 4:
 <p>
-<img src="https://i.imgur.com/bO1OGqH.png" height="80%" width="80%" alt=/>  
-<img src="https://i.imgur.com/63te02v.png" height="80%" width="80%" alt=/>
+<img src="https://i.imgur.com/bO1OGqH.png" height="60%" width="60%" alt=/>  
+<img src="https://i.imgur.com/63te02v.png" height="60%" width="60%" alt=/>
 
 </p>
 <p>
@@ -90,8 +90,8 @@ Restart IIS again.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/XunS4np.png"80%" width="80%" alt=/>  
-<img src="https://i.imgur.com/pWkUiLR.png" height="80%" width="80%" alt=/>
+<img src="https://i.imgur.com/XunS4np.png"60%" width="60%" alt=/>  
+<img src="https://i.imgur.com/pWkUiLR.png" height="60%" width="60%" alt=/>
 
 </p>
 <p>
@@ -108,7 +108,7 @@ Disable inheritance, remove all existing permissions
 
   Item 5: 
 
-  <img src="https://i.imgur.com/N5PdxII.png" height="80%" width="80%" alt=/>
+  <img src="https://i.imgur.com/N5PdxII.png" height="60%" width="60%" alt=/>
 
 </p>
 <p>
