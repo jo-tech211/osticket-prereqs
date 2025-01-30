@@ -65,7 +65,7 @@ Install MySQL 5.5.62 with: Typical Setup, then standard configuration, then appl
 <br />
 Item 3:
 <p>
-<img src="https://i.imgur.com/Y662nUV.png" height="80%" width="80%" alt=/>  
+<img src="https://i.imgur.com/Y662nUV.png" height="60%" width="60%" alt=/>  
   
 </p>
 <p>
@@ -108,7 +108,7 @@ Disable inheritance, remove all existing permissions
 
   Item 5: 
 
-  <img src="https://i.imgur.com/N5PdxII.png" height="60%" width="60%" alt=/>
+<img src="https://i.imgur.com/N5PdxII.png" height="60%" width="60%" alt=/>
 
 </p>
 <p>
@@ -119,7 +119,7 @@ Provide the following: Helpdesk name, default email for customer queries.👌
 
 Item 6:
 
-<img src="https://i.imgur.com/ZyRfSaw.png" alt=/>
+<img src="https://i.imgur.com/ZyRfSaw.png" height="60%" width="60%" alt=/>
 
 Install and open HeidiSQL.
 Create a new session (Username: root, Password: root) 
@@ -130,5 +130,5 @@ Database Name: osTicket
 You are now able to access the admin panel! 😊🎊
 osTicket system complete! 🚀
 
-<img src="https://i.imgur.com/PJI1207.png" alt=/>
+<img src="https://i.imgur.com/PJI1207.png" height="60%" width="60%" alt=/>
 
